@@ -40,6 +40,6 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="120" 
+      height="140" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellapiedade&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
